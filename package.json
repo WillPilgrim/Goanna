@@ -1,7 +1,7 @@
 {
   "name": "goanna",
   "version": "1.0.0",
-  "description": "Budget",
+  "description": "goanna",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/WillPilgrim/Goanna#readme",
   "dependencies": {
+    "handsontable": "^2.0.0",
     "moment": "^2.22.1"
   },
   "devDependencies": {
